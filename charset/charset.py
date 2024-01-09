@@ -3,7 +3,7 @@ start = 30
 end = 5000
 
 
-def row(row, columns):
+def row(row: int, columns: int):
     string = ""
     j = 0
     while j < columns:
@@ -12,7 +12,7 @@ def row(row, columns):
     return string
 
 
-def rows(start, end, columns):
+def rows(start: int, end: int, columns: int):
     i = start
     while i < end:
         string = row(i, columns)
