@@ -1,2 +1,2 @@
 ### 2024-01-09
-**charset** added – simple script displaying characters table using functions
+**`charset`** added – simple script displaying characters table using functions
