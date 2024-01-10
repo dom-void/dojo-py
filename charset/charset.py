@@ -1,3 +1,5 @@
+# A simple script displaying characters table using functions
+
 columns = 20
 start = 30
 end = 5000
